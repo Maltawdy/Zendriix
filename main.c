@@ -2,7 +2,9 @@
 ### Created for Zendriix Software 
 ### Auther: Abdelrhman.Magdy
 ### Email : Maltawdy@hotmail.com
-void main (void)
+import func1
+void main(void)
 {
 	print("Hello World");
+	func1();
 }
